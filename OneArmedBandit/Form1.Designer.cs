@@ -96,7 +96,7 @@
             // pictureBox3
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox3.BackgroundImage = global::OneArmedBandit.Properties.Resources.diamond_100x125;
+            this.pictureBox3.BackgroundImage = global::OneArmedBandit.Properties.Resources.diamond;
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox3.Location = new System.Drawing.Point(235, 116);
             this.pictureBox3.Name = "pictureBox3";
@@ -107,7 +107,7 @@
             // pictureBox2
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox2.BackgroundImage = global::OneArmedBandit.Properties.Resources.cherry_100x125;
+            this.pictureBox2.BackgroundImage = global::OneArmedBandit.Properties.Resources.cherry;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox2.Location = new System.Drawing.Point(159, 116);
             this.pictureBox2.Name = "pictureBox2";
@@ -118,7 +118,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.BackgroundImage = global::OneArmedBandit.Properties.Resources._7_100x125;
+            this.pictureBox1.BackgroundImage = global::OneArmedBandit.Properties.Resources._7_;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Location = new System.Drawing.Point(84, 116);
             this.pictureBox1.Name = "pictureBox1";

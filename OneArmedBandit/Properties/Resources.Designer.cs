@@ -63,9 +63,9 @@ namespace OneArmedBandit.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _7_100x125 {
+        internal static System.Drawing.Bitmap _7_ {
             get {
-                object obj = ResourceManager.GetObject("_7_100x125", resourceCulture);
+                object obj = ResourceManager.GetObject("_7_", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace OneArmedBandit.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cherry_100x125 {
+        internal static System.Drawing.Bitmap cherry {
             get {
-                object obj = ResourceManager.GetObject("cherry_100x125", resourceCulture);
+                object obj = ResourceManager.GetObject("cherry", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace OneArmedBandit.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap diamond_100x125 {
+        internal static System.Drawing.Bitmap diamond {
             get {
-                object obj = ResourceManager.GetObject("diamond_100x125", resourceCulture);
+                object obj = ResourceManager.GetObject("diamond", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
